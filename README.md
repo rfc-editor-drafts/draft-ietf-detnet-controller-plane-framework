@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+# draft-ietf-detnet-controller-plane-framework
+A repo to test Purple publication steps
